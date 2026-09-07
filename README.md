@@ -32,32 +32,7 @@ support.
 - Dedicated support page with FAQs and direct email contact
 - Static files with no runtime dependencies or tracking scripts
 
-## Project Structure
 
-```text
-.
-├── assets/          # App icon, screenshots, and local fonts
-├── support/
-│   └── index.html   # Support page
-├── index.html       # Marketing page
-├── styles.css       # Shared responsive styles
-└── vercel.json      # Deployment and security headers
-```
-
-## Local Preview
-
-The website is fully static and does not require a build step.
-
-```sh
-python3 -m http.server 4173
-```
-
-Open [http://localhost:4173](http://localhost:4173) in your browser.
-
-## Deployment
-
-The site is hosted on Vercel. Every push to the `main` branch automatically creates a new production
-deployment.
 
 ## App Store Connect URLs
 
