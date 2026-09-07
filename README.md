@@ -3,6 +3,8 @@
 The official marketing and support website for **GravityBlock**, a gravity-controlled block puzzle
 for iPhone.
 
+**Live site:** [gravityblock-site.vercel.app](https://gravityblock-site.vercel.app/)
+
 ## Pages
 
 - `/` — Product overview and App Store marketing page
@@ -27,10 +29,10 @@ settings; no framework preset or build command is needed.
 
 ## App Store Connect
 
-After deployment, use:
+Use these URLs in App Store Connect:
 
-- Marketing URL: `https://<deployment-domain>/`
-- Support URL: `https://<deployment-domain>/support/`
+- Marketing URL: `https://gravityblock-site.vercel.app/`
+- Support URL: `https://gravityblock-site.vercel.app/support/`
 
 ## Contact
 
